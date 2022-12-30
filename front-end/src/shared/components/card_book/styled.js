@@ -10,6 +10,7 @@ export const Container_Card = styled.div`
   border-radius: 8px;
   padding: 0 5px;
   background-color: green;
+  margin: auto;
 
   img {
     width: 90%;
